@@ -17,3 +17,6 @@ Create a new folder directory 'template_parts/modules/' in current themes Folder
         </div>
 </div>
 ```
+# Step 3
+
+Create Page in 'template_parts/modules/' folder and page name need to be same as layout name(not layout label).
